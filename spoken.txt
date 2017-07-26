@@ -1,0 +1,18 @@
+                                     CRUD operation commands
+
+
+Insert command
+---------------------
+insert/add @15@ @21st october2017@ @the last stand@ @11am@ @tom@ @russel@ @9am@ @california@ in registration
+
+Select command
+---------------------
+fetch/select/display/show all the records of/from registration table
+
+Update command
+---------------------
+make change/update in registration table replace/set/edit guest is equal to @sam@ where id is equal to @9@
+
+Delete command
+---------------------
+remove/vanish/delete record of/from registration table where id is equal to @12@ 
