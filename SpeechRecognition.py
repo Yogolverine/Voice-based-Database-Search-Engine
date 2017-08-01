@@ -7,6 +7,8 @@ import mysql.connector as mc
 import info
 
 # making a dictionary of available databases
+# creating dictionary ,the values are based on, how many ways python interpreter recognises your speech
+
 db_available={'meetups':['meetups','meetup','meet up'],'mysql':['mysql','my SQL','Mysql'],
               'performance_schema':['performance','performance schema','performance Schema'],
               'pythondb':['Python DB','pythonDb','pythondb'],'sakila':['shakila','Shakeela','sakila'],
