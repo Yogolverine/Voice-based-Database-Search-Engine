@@ -4,7 +4,7 @@ import time
 import os
 import json
 import mysql.connector as mc
-import info
+import info                                       #importing the self created package- info 
 
 # making a dictionary of available databases
 # creating dictionary ,the values are based on, how many ways python interpreter recognises your speech
