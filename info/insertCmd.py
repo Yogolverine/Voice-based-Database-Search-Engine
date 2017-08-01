@@ -1,7 +1,7 @@
 # this insertCmd.py is used for insert command only
 import re
 from nltk.tokenize import word_tokenize
-import speech_recognition as sr
+
 def entryIn(spoken):
     # creating dictionary ,the values are based on, how many ways python interpreter recognises your speech
     insert_dict={'insert into':['insert','add'],'registration values( ':['registration',''],'user values(':['user','']}
